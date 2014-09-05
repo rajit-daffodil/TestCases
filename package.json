@@ -35,5 +35,3 @@
     }
 }
 
-// for window use this statement for script['test'] "node_modules\\.bin\\mocha  node_modules\\ApplaneDB\\test --recursive  --timeout 150000"
-// for window use this statement for script['test'] "sudo ./node_modules/.bin/mocha  ./node_modules/ApplaneDB/test --recursive  --timeout 150000"
