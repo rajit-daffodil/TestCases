@@ -18,8 +18,8 @@
 	},
 	
 "scripts":{
-"test": "sudo ./node_modules/.bin/mocha  ./node_modules/ApplaneDB/test --recursive  --timeout 150000" ,
-"test1": "sudo ./node_modules/.bin/mocha  ./node_modules/ApplaneApps/test --recursive  --timeout 150000"
+"test": "sudo ./node_modules/.bin/mocha  ./node_modules/ApplaneDB/test --recursive  --timeout 150000 sudo ./node_modules/.bin/mocha  ./node_modules/ApplaneApps/test --recursive  --timeout 150000" ,
+
 	
 	
 },
