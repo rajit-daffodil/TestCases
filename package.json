@@ -13,10 +13,10 @@
         "passport": "0.2.1",
 "passport-facebook": "1.0.3",
 "passport-google-oauth": "0.1.5",
-        "ApplaneCore":"git+https://2497b79998465e241f37727770759465f4eb0cc3:x-oauth-basic@github.com/daffodilsw/ApplaneCore.git",
-	"ApplaneDB":"git+https://2497b79998465e241f37727770759465f4eb0cc3:x-oauth-basic@github.com/daffodilsw/ApplaneDB.git",
-	"ApplaneApps":"git+https://2497b79998465e241f37727770759465f4eb0cc3:x-oauth-basic@github.com/daffodilsw/ApplaneApps.git",
-	"NorthwindTestCase":"git+https://2497b79998465e241f37727770759465f4eb0cc3:x-oauth-basic@github.com/daffodilsw/NorthwindSource.git"
+        "ApplaneCore":"git+https://d2311242bfab57adf2b7b7892f9d2c0ceac0be39:x-oauth-basic@github.com/daffodilsw/ApplaneCore.git",
+	"ApplaneDB":"git+https://d2311242bfab57adf2b7b7892f9d2c0ceac0be39:x-oauth-basic@github.com/daffodilsw/ApplaneDB.git",
+	"ApplaneApps":"git+https://d2311242bfab57adf2b7b7892f9d2c0ceac0be39:x-oauth-basic@github.com/daffodilsw/ApplaneApps.git",
+	"NorthwindTestCase":"git+https://d2311242bfab57adf2b7b7892f9d2c0ceac0be39:x-oauth-basic@github.com/daffodilsw/NorthwindSource.git"
 
 	},
 	
