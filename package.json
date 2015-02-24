@@ -22,8 +22,8 @@
 	},
 	
 "scripts":{
-"test": "./node_modules/.bin/mocha  ./node_modules/ApplaneDB/test --recursive  --timeout 150000",
-"start": "./node_modules/.bin/mocha  ./node_modules/ApplaneApps/test --recursive  --timeout 150000"
+"test": "./node_modules/.bin/mocha  ./node_modules/ApplaneDB/test --recursive  --timeout 150000 -g 'Applicationtestcase' ",
+"start": "./node_modules/.bin/mocha  ./node_modules/ApplaneApps/test --recursive  --timeout 150000  -g 'delete already deleted qviews'"
 
 	
 	
