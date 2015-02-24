@@ -17,8 +17,8 @@
         "ApplaneCore":"git+https://d2311242bfab57adf2b7b7892f9d2c0ceac0be39:x-oauth-basic@github.com/daffodilsw/ApplaneCore.git",
 	"ApplaneDB":"git+https://d2311242bfab57adf2b7b7892f9d2c0ceac0be39:x-oauth-basic@github.com/daffodilsw/ApplaneDB.git",
 	"ApplaneApps":"git+https://d2311242bfab57adf2b7b7892f9d2c0ceac0be39:x-oauth-basic@github.com/daffodilsw/ApplaneApps.git",
-	"NorthwindTestCase":"git+https://d2311242bfab57adf2b7b7892f9d2c0ceac0be39:x-oauth-basic@github.com/daffodilsw/NorthwindSource.git"
-
+	"NorthwindTestCase":"git+https://d2311242bfab57adf2b7b7892f9d2c0ceac0be39:x-oauth-basic@github.com/daffodilsw/NorthwindSource.git",
+	"ApplaneError":"git+https://d2311242bfab57adf2b7b7892f9d2c0ceac0be39:x-oauth-basic@github.com/daffodilsw/ApplaneError.git"
 	},
 	
 "scripts":{
